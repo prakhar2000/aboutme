@@ -1,0 +1,165 @@
+body {
+   margin: 0px;
+   text-align: center;
+   font-family: 'Merriweather', serif;
+
+}
+
+h3 {
+   text-align: left;
+   font-family: 'Montserrat', sans-serif;
+   color: #12d3cf;
+}
+h2{
+   color: #248ea9;
+}
+
+h1 {
+   margin-top: 0px;
+   text-align: center;
+   font-family: 'Sacramento', cursive;
+   color: #12d3cf;
+   
+}
+.mount{
+   height: 275px;
+   width: 400px;
+   
+}
+
+p {
+   text-align: center;
+}
+
+.upper-container {
+
+   
+   height: 500px;
+   background-color: #e6f8f9;
+
+
+}
+.mainname{
+   padding-top: 60px ;
+    font-size-adjust: auto;
+   font-size: 550%;
+   margin-bottom: 0;
+   
+}
+.mainpara{
+   color: #12d3cf;
+   margin-top: 0;
+}
+
+
+.middle-container {
+   align-content: center;
+
+
+
+}
+
+.lower-container {
+   background-color:#e6f8f9;
+   padding-bottom: 10px;
+   padding-top: 10px;
+   
+}
+
+.footer-link {
+   padding-right: 30px;
+
+}
+
+hr{
+   border-style: none;
+   border-top-style: dotted;
+   border-top-width: thick;
+   color: gray;
+   width: 5%;
+}
+
+
+.contact-me {
+   
+   padding: 50px;
+
+
+
+}
+
+.profile {}
+
+.my {
+   margin-top: 30px;
+   align-items: center;
+   border-radius: 25%;
+}
+
+.skill1 {
+
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+   
+}
+
+.skill2 {
+
+   border-radius: 50%;
+   height: 200px;
+   width: 200px;
+
+
+}
+.sk{
+   text-align: left;
+}
+
+.bottomcloud {
+
+   position: absolute;
+   left: 355px;
+}
+.uppercloud{
+   position: absolute;
+   left:855px;
+   
+}
+
+table {
+   align-items: center;
+}
+
+.skills {
+   padding: 0 25%;
+   
+}
+
+
+.butn {
+   background: #c5eded;
+   background-image: -webkit-linear-gradient(top, #c5eded, #29a37a);
+   background-image: -moz-linear-gradient(top, #c5eded, #29a37a);
+   background-image: -ms-linear-gradient(top, #c5eded, #29a37a);
+   background-image: -o-linear-gradient(top, #c5eded, #29a37a);
+   background-image: linear-gradient(to bottom, #c5eded, #29a37a);
+   -webkit-border-radius: 15;
+   -moz-border-radius: 15;
+   border-radius: 15px;
+   font-family: Arial;
+   color: #fafafa;
+   font-size: 20px;
+   padding: 10px 20px 10px 20px;
+   text-decoration: none;
+}
+
+.butn:hover {
+   background: #3cb0fd;
+   background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+   text-decoration: none;
+}
